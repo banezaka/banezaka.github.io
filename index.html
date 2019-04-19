@@ -6,7 +6,7 @@ title: Banezaka
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date: "%F %R" }}
- }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+ </span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
       <li>{{ post.content }}</li>
     {% endfor %}
 </ul>
