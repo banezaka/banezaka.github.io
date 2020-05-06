@@ -30,7 +30,7 @@ suffer from the same limitation!
 
 allquixotic@[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
 
-```
+---
 This is half right. While it's true that gaming headsets use a proprietary protocol, 
 just using aptX alone will NOT guarantee that a headset supports duplex (playback and capture) 
 audio at high quality (particularly in the playback direction, it'll only be mono channel 
@@ -46,4 +46,4 @@ hanging out of your laptop's USB port. There is no way whatsoever to get
 bidirectional/duplex high-quality stereo audio using the Bluetooth adapter built 
 into any laptop, smartphone, desktop, or tablet on the market. 
 It's literally 100.0% impossible. – allquixotic Mar 9 '18 at 2:24 
-```
+---
