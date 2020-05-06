@@ -28,6 +28,8 @@ is no guarantee of this working! You can get aptX headsets that nonetheless
 suffer from the same limitation!
 ```
 
+
+
 ```
 This is half right. While it's true that gaming headsets use a proprietary protocol, 
 just using aptX alone will NOT guarantee that a headset supports duplex (playback and capture) 
