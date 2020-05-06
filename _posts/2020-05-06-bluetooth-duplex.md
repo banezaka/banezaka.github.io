@@ -11,7 +11,7 @@ Some headsets can support mono sound and mono capture but at a low bitrate.
 Related: [aptX](https://www.aptx.com/products)
 
 Sources:
-[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
+Toumal@[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
 ```
 Your headset needs to support aptX (https://www.aptx.com/products). 
 This is a limitation of the bluetooth A2DP profile. Without aptX, it will not 
@@ -28,7 +28,7 @@ is no guarantee of this working! You can get aptX headsets that nonetheless
 suffer from the same limitation!
 ```
 
-
+allquixotic@[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
 
 ```
 This is half right. While it's true that gaming headsets use a proprietary protocol, 
