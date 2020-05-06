@@ -12,7 +12,8 @@ Related: [aptX](https://www.aptx.com/products)
 
 Sources:
 Toumal@[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
----
+
+***
 Your headset needs to support aptX (https://www.aptx.com/products). 
 This is a limitation of the bluetooth A2DP profile. Without aptX, it will not 
 be able to receive hifi stereo sound one way while sending microphone audio the other way.
@@ -26,10 +27,11 @@ with their own little USB dongle.
 EDIT: User "Horn OK Please" below is correct that aptX alone unfortunately 
 is no guarantee of this working! You can get aptX headsets that nonetheless 
 suffer from the same limitation!
----
+***
+
 allquixotic@[superuser.com](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
 
----
+***
 This is half right. While it's true that gaming headsets use a proprietary protocol, 
 just using aptX alone will NOT guarantee that a headset supports duplex (playback and capture) 
 audio at high quality (particularly in the playback direction, it'll only be mono channel 
@@ -45,6 +47,4 @@ hanging out of your laptop's USB port. There is no way whatsoever to get
 bidirectional/duplex high-quality stereo audio using the Bluetooth adapter built 
 into any laptop, smartphone, desktop, or tablet on the market. 
 It's literally 100.0% impossible. – allquixotic Mar 9 '18 at 2:24 
-
-
----
+***
