@@ -4,16 +4,16 @@ title: "Bluetooth doesn't support stereo + mic"
 date: 2020-05-06
 ---
 
-At the moment it isn't possible to use Bluetooth 5 (or earlier) with A2DP profile for duplex (playback and capture) [superuser source](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
+At the moment it isn't possible to use Bluetooth 5 (or earlier) with A2DP profile for duplex (playback and capture) 
 
 Bluetooth current implementation doesn't give enough bandwith to have stereo sound and microphone capture at the same time.
 
-Some headsets can support mono sound and mono capture but a at a low bitrate. 
+Some headsets can support mono sound and mono capture but at a low bitrate. 
 
-Related topics: [aptX](https://www.aptx.com/products)
+Related: [aptX](https://www.aptx.com/products)
 
 Sources:
-https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic
+[https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic](https://superuser.com/questions/930251/possible-to-use-bluetooth-headset-in-stereo-mode-with-mic)
 ```
 Your headset needs to support aptX (https://www.aptx.com/products). This is a limitation of the bluetooth A2DP profile. Without aptX, it will not be able to receive hifi stereo sound one way while sending microphone audio the other way.
 
